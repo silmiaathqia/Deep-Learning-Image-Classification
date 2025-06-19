@@ -27,7 +27,7 @@
 Deep-Learning-Image-Classification/
 ├── .github/
 │   └── workflows/
-│       └── preprocessing_workflow.yml
+│       └── classification_workflow.yml
 ├── Processed-Classification/
 │   ├── Submission_Akhir.ipynb
 │   ├── automate_image_classification.py
