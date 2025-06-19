@@ -14,13 +14,6 @@
 - **Total Gambar**: 12,000
 - **Sumber**: [Kaggle - Skyview Dataset](https://www.kaggle.com/datasets/ankit1743/skyview-an-aerial-landscape-dataset)
 
-### 🏞️ Kategori Landscape
-
-| Agriculture |  Airport  |  Beach  |    City     |  Desert  |
-| :---------: | :-------: | :-----: | :---------: | :------: |
-|   Forest    | Grassland | Highway |    Lake     | Mountain |
-|   Parking   |   Port    | Railway | Residential |  River   |
-
 ## 📊 Struktur Project
 
 ```
